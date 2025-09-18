@@ -8,15 +8,15 @@ Projeto desenvolvido como parte do Projeto Integrador da faculdade.
 
 ---
 
-📌 Objetivo
+##📌 Objetivo
 
 Oferecer uma plataforma simples, intuitiva e segura para aproximar clientes e prestadores, facilitando o contato, a formalização de serviços e a valorização do trabalho através de avaliações e conteúdos no blog.
 
 ---
 
-📋 Requisitos do Sistema
+##📋 Requisitos do Sistema
 
-✅ Requisitos Funcionais (RF)
+##✅ Requisitos Funcionais (RF)
 
 Cadastro e Perfis
 
@@ -52,7 +52,9 @@ RF14: O sistema deve calcular e exibir a média de avaliações no perfil do pre
 RF15: O prestador deve poder criar, editar e excluir artigos no blog.
 RF16: Os artigos devem ser exibidos no perfil do prestador.
 
-⚙️ Requisitos Não Funcionais (RNF)
+---
+
+##⚙️ Requisitos Não Funcionais (RNF)
 
 Usabilidade
 
@@ -82,13 +84,11 @@ RNF10: O sistema deve permitir expansão de usuários sem grandes mudanças.
 Manutenibilidade
 
 RNF11: Código deve seguir boas práticas e estar documentado.
-RNF12: Deve permitir fácil inclusão de novas funcionalidades.
+RNF12: Deve permitir fácil incluso de novas funcionalidades.
+
 ---
 
-👥 Equipe
+##👥 Equipe
 - Fabio Henrique   
 - Igor Ibiapino 
 - Miguel Matias
-
----
-
